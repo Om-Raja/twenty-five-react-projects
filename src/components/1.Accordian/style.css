@@ -1,0 +1,13 @@
+.accordHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.accord{
+    width: 800px;
+    padding: 4px 10px;
+    background-color: #502525;
+    margin: 10px auto;
+}
