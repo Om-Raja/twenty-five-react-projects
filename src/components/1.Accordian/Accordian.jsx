@@ -29,6 +29,7 @@ function Accordian() {
         onClick={() => {
           setMultiple(!multiple);
           setThisAccord([]);
+          !multiple? alert("Set to multiple accordian view") : alert("Set to single accordian view");
         }}
       >
         Toggle multiple
