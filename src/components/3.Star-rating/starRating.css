@@ -1,0 +1,10 @@
+.active{
+    color: rgb(235, 235, 15);
+    margin: 0 3px;
+    transition: all 0.4s ease;
+}
+.inActive{
+    color: #777474;
+    margin: 0 3px;
+    transition: all 0.4s ease;
+}
